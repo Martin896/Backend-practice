@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(122, 189, 39);
+}
+h1 {
+    text-align:center;
+    color:rgba(193, 10, 10, 0.776)
+}
+section {
+    width:50%;
+    margin:0 auto;
+    font-size:24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#form {
+    color:purple;
+}
+#submit{
+    color:red;
+    font-size:20px;
+    font-family: fantasy;
+}
+#h1{
+    margin: 0 auto;
+    background-color:violet;
+
+}
